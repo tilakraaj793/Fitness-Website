@@ -1,0 +1,37 @@
+.header
+{
+border:1px solid red;
+float:left;
+width:100%;
+}
+.container
+{
+border:1px solid red;
+}
+.col-sm-6
+{
+border:1px solid red;
+
+}
+
+.col-sm-6 input
+{
+padding:10px 30px 15px;
+border:1px solid #a4a4a4;
+}
+.btn-primary
+{
+font-family:roboto;
+color:#fff;
+font-weight:400;
+font-size:14px;
+padding:14px 10px;
+background:#749ec6;
+border-radius:none;
+
+}
+
+.seaalin
+{
+text-align:right;
+}

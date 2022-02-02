@@ -1,0 +1,9 @@
+@media only screen and (min-width: 100px) and (max-width: 400px)
+{
+.logo {width: 100%;text-align:center;padding:20px 0px;}
+.search {width:100%; text-align:center;}
+.sercol {width:100%;}
+.bnrbox{display:none;}
+.newscol {width:100%;}
+.copy1 {width: 100%;}
+}
